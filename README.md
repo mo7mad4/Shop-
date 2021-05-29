@@ -1,5 +1,4 @@
 # Shop-
-[Live link](https://mo7mad4.github.io/Shop-/)
 
 ```This project is called SUP Online Shopping that was developed using PHP/MySQLi. It is commonly known as electronic marketing or automated shop. It consists of buying and selling goods and services over an electronic system such as the internet. Just like other eCommerce Web Applications, this web application also consists of cart listing, checkout process, and order details. This online shopping system/application has 2 sides of the user interface which are the Admin panel and the website for the Client/Visitors. The Admin user is in charge of managing the system data such as the list orders and products. This project has a pleasant User Interface and a user-friendly.```
 
