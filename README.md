@@ -4,7 +4,7 @@
 
 E-commerce is the purchasing, selling & exchanging of goods and services over a computer network or internet in which transactions or terms of sale are performed electronically or sometimes its cash on delivery.
 
-Features:
+### Features:
 ## Admin
 
 * Manage Category List
